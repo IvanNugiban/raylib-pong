@@ -2,11 +2,11 @@
 
 ## Main menu
 
-![Main Menu](./images/main_menu.png)
+![Main Menu](https://github.com/IvanNugiban/raylib-pong/blob/main/images/main_menu.jpg)
 
 ## Gameplay
 
-![Gameplay](./images/gameplay.png)
+![Gameplay](https://github.com/IvanNugiban/raylib-pong/blob/main/images/gameplay.jpg)
 
 ## Description
 
